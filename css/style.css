@@ -1,0 +1,15 @@
+.p-1 {
+	padding: 20px;
+}
+
+.text-uppercase {
+	font-size: 0.7em;
+}
+
+h4 {
+	font-size: 1.4em;
+}
+
+.project-desc > ul > li {
+	font-size: 1.1em;
+}
